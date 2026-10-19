@@ -156,7 +156,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenDemo }) => {
                 }}
                 title="Macaca AI Central Core"
               >
-                <MonkeyLogo size={68} animated={true} />
+                <MonkeyLogo size={82} animated={true} />
               </div>
 
               {/* CONTINUOUS ROTATING PLANETARY ORBIT CONTAINER */}
